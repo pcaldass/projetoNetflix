@@ -10,7 +10,7 @@
         width: 300px;
     }
     .principalMovie {
-        background: url('/imagens/mainmovie730.jpg');
+        background: url('../imagens/mainmovie730.jpg');
         background-repeat: no-repeat;
         background-size: 100%;
     }
