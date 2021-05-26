@@ -41,7 +41,7 @@ body {
 }
 
 .principalMovie {
-    background: url('/imagens/mainmovie.jpg');
+    background: url('../imagens/mainmovie.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
 }
